@@ -1,0 +1,34 @@
+* {
+  font-family: helvetica;
+}
+h2 {
+  color: white;
+  font-size: 32px;
+  font-weight: bond;
+}
+.bckgrnd_color_ltcoral {
+  background-color: lightcoral;
+}
+.bckgrnd_color_green {
+  background-color: mediumspringgreen;
+}
+.bckgrnd_color_skyblu {
+  background-color: skyblue;
+}
+.header_caption {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;text-align: center;
+}
+.header_image {
+  background-image: url(images/pattern.jpeg);
+  height: 100px;
+}
+.highlight_blue {
+  color: blue;
+  font-weight: bold;
+}
+.page-credit {
+  font-size: 8px;
+  font-family: courier;
+}
